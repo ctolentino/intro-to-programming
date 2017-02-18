@@ -12,8 +12,11 @@ Everything a computer does, from browsing the internet to writing documents of p
 - In some cars, computer programs monitor the speed, temperature, and amount of fuel in the tank. Computer programs can even help control the breaks to keep people safe. 
 
 Resources:
+
 Terminal Practice - http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
 
 Git and GitHub Practice - https://try.github.io/levels/1/challenges/1
 
-HTML and CSS - http://www.turnwall.com/articles/html-and-css-overview/
+Explanation HTML and CSS - http://www.turnwall.com/articles/html-and-css-overview/
+
+Practice with Coding - https://www.freecodecamp.com/  ***Sign in with GitHub account.
